@@ -7,8 +7,12 @@
 借由这个需求，我尝试给出一些从markdown生成最后的实验报告的解决方案，目前来说已经完成以下方案：
 
 - [pandoc](./pandoc/README.md)
+- [md2docx](https://github.com/CSUwangj/md2docx-csharp)
 
 还有以下方案正在尝试中：
 
-- [markdown parser & python-docx](./parse/README.md)
-- [LaTeX](./latex/README.md)
+- [$\LaTeX$](./latex/README.md)
+
+以下方案因为md2docx作为更好的替代方案，已经被放弃了
+
+- [markdown parser&python-docx](./parse/README.md)
